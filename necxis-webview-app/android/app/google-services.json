@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "813672467224",
+    "project_id": "nextjsauthapp-2cfe9",
+    "storage_bucket": "nextjsauthapp-2cfe9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813672467224:android:9f944df7da29a66e46ac6d",
+        "android_client_info": {
+          "package_name": "com.yourcompany.nextjsexpointegration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEur3hsCaC-NdywSIk5uRyiRnFEsTvLWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
